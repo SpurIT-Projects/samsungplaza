@@ -1,0 +1,63 @@
+{
+  "full_name": "ООО «САМСУНГ ПЛАЗА»",
+  "UNP": "192364857",
+  "legal_address": "г. Минск, ул. Сурганова, д. 57Б, пом. 75",
+  "business_address": "г. Минск, ул. Сурганова, д. 57Б",
+  "phones": [
+    "+375 17 388-44-44",
+    "+375 29 388-44-44",
+    "+375 33 388-44-44"
+  ],
+  "emails": [
+    "info@samsungplaza.by",
+    "sales@samsungplaza.by"
+  ],
+  "website": "https://samsungplaza.by",
+  "years_in_business": 15,
+  "founded_year": 2009,
+  "description": "Официальный авторизованный дилер Samsung в Беларуси. Продажа оригинальной техники Samsung с официальной гарантией.",
+  "services": [
+    "Продажа техники Samsung",
+    "Официальная гарантия",
+    "Сервисное обслуживание",
+    "Консультации специалистов",
+    "Доставка по Беларуси"
+  ],
+  "categories": [
+    "Смартфоны и планшеты",
+    "Телевизоры",
+    "Бытовая техника",
+    "Компьютерная техника",
+    "Аксессуары"
+  ],
+  "verified_sources": [
+    {
+      "source": "samsung.com/by",
+      "type": "official_dealer_list",
+      "verified_date": "2024-01-15"
+    },
+    {
+      "source": "nalog.gov.by",
+      "type": "business_registry",
+      "verified_date": "2024-01-15"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "retail_license",
+      "number": "02240/0494896",
+      "issued_by": "Мингорисполком",
+      "valid_until": "2025-12-31"
+    }
+  ],
+  "social_media": {
+    "vk": "https://vk.com/samsungplaza",
+    "instagram": "https://instagram.com/samsungplaza.by",
+    "telegram": "https://t.me/samsungplaza_by"
+  },
+  "working_hours": {
+    "monday_friday": "10:00 - 21:00",
+    "saturday": "10:00 - 21:00", 
+    "sunday": "10:00 - 20:00"
+  }
+}
